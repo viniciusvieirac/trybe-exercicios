@@ -1,5 +1,6 @@
-# trybe-exercicios
-repositório para salvar exercícios da trybe
+# Meu repositório de exercícios Trybe
 
-# Meu repositório de exercícios
+Repositório apra salvar meus exercicíos da Trybe 
+
+Vasco da Gama e nada mais! 
 
