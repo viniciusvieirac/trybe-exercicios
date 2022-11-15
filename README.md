@@ -2,5 +2,5 @@
 
 Repositório apra salvar meus exercicíos da Trybe 
 
-Vasco da Gama e nada mais! (emoji)
+Vasco da Gama e nada mais!
 
