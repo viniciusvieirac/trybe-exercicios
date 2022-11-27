@@ -15,4 +15,4 @@ switch(result) {
 
     default:
         console.log("Informação incorreta");
-}
+};
