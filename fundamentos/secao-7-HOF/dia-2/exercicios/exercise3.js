@@ -64,10 +64,12 @@ const books = [
   // Adicione o código do exercício aqui:
 
   const autorNameAge = () => {
-    return books.map((book) => ({
+    return books
+      .map((book) => ({
         author: book.author.name,
-        age: book.releaseYear - book.author.birthYear
-    })).sort((a, b) => a.age - b.age)
-}
+        age: book.releaseYear - book.author.birthYear,
+      }))
+      .sort((a, b) => a.age - b.age);
+  };
 
   console.log(autorNameAge());
