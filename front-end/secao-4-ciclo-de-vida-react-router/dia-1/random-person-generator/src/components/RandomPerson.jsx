@@ -26,7 +26,7 @@ class RandomPerson extends Component {
 
       getUsersInfos(user) {
         return {
-          name: `${user.name.fisrt}${user.name.last}`,
+          name: `${user.name.first} ${user.name.last}`,
           email: `${user.email}`,
           age: `${user.dob.age}`,
           image: `${user.picture.thumbnail}`,
