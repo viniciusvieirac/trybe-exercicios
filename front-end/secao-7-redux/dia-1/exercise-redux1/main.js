@@ -65,6 +65,12 @@ random.addEventListener('click', () => {
 store.subscribe(() => {
   const state = store.getState();
 
+  // const { colors, index } = state;
+
+  // spanEl.innerHTML = colors[index];
+
+  // container.style.backgroundColor = colors[index];
+
   spanEl.innerHTML = state.colors[state.index];
 
   container.style.backgroundColor = state.colors[state.index];
